@@ -1,0 +1,2 @@
+# salamatutka
+Kouluprojektina salamatutka Windows-käyttöjärjestelmälle
